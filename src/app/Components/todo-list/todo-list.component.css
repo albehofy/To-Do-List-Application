@@ -1,0 +1,21 @@
+.container {
+    max-width: 721px;
+    min-height: 100vh;
+}
+
+header img {
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+}
+
+.small-btn {
+    width: 71px;
+}
+
+.special-button {
+    height: 0;
+    padding: 0;
+    border: 0;
+    overflow-y: hidden;
+}
